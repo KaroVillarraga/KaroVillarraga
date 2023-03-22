@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Full Stack Development
-- 👯 I’m looking to collaborate on children projects
+👩‍💻 I´m a user experience designer and front-end developer trained as a full stack with 20 years of design experience. I'm creative and passionate about the story every product wants to tell to the final user through digital channels. I know how to balance concept, aesthetics, and functionality into a single design solution. I have created and produced children's audiovisual projects that have been awarded internationally.
 
 
 
@@ -12,7 +11,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KaroVillarraga&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KaroVillarraga&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=KaroVillarraga&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
